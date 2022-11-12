@@ -4,7 +4,7 @@
 O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo objetivo é o mesmo, ao agregar os links das minhas redes sociais e portfólio.
 
 ## :link: **Link**
-<!-- *[Link do projeto.](https://parsi-app.vercel.app)* -->
+*[Link do projeto.](https://link-pack.vercel.app)*
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
