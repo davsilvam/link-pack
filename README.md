@@ -1,5 +1,5 @@
 # Link Pack
-## :link: **Projeto**
+## :leaves: **Projeto**
 
 O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo objetivo é o mesmo, ao agregar os links das minhas redes sociais e portfólio.
 
