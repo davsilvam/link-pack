@@ -34,6 +34,13 @@ Tecnologias utilizadas no projeto.
 
 Veja [documentação de configuração do Vite](https://vitejs.dev/config/).
 
+
+### **Clonando o Projeto**
+
+```sh
+git clone https://github.com/davsilvam/link-pack.git
+```
+
 ### **Executando o Projeto**
 
 ```sh
