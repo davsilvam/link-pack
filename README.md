@@ -3,8 +3,9 @@
 
 O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo objetivo é o mesmo, ao agregar os links das minhas redes sociais e portfólio.
 
-## :link: **Link**
-*[Link do projeto.](https://link-pack.vercel.app)* - *[Post do Instagram](https://www.instagram.com/p/Ck4bb6Hpr-L/?utm_source=ig_web_copy_link)*
+<p align="center">
+   <a href="https://link-pack.vercel.app">Veja o projeto completo aqui.</a>
+</p>
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
