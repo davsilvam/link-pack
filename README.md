@@ -3,8 +3,10 @@
 
 O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo objetivo é o mesmo, ao agregar os links das minhas redes sociais e portfólio.
 
-## :link: **Link**
-*[Link do projeto.](https://link-pack.vercel.app)*
+<p align="center">
+   <a href="https://link-pack.vercel.app">Veja o projeto completo aqui.</a>
+</p>
+
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
@@ -19,16 +21,28 @@ O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo 
 
 ## :wrench: **Tecnologias**
 Tecnologias utilizadas no projeto.
-* HTML;
-* CSS;
-* [Tailwind CSS](https://tailwindcss.com/docs/customizing-colors);
-* JavaScript;
-* [Vue.js](https://vuejs.org);
-* [Node e NPM](https://nodejs.org/en/);
-* [Vite](https://vitejs.dev);
-* Visual Studio Code;
-* [Remixicon](https://remixicon.com);
-* Google Fonts.
+
+### :hammer: **Construção do site**
+
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Vue.js](https://vuejs.org)
+* [Node e NPM](https://nodejs.org/)
+* [Vite](https://vitejs.dev/)
+
+### :art: **Estilização** 
+
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Tailwind CSS](https://tailwindcss.com)
+* [Remixicon](https://remixicon.com)
+* [Google Fonts](https://fonts.google.com)
+
+### :open_file_folder: **IDE, Versionamento e Deploy**
+
+* [Visual Studio Code](https://code.visualstudio.com)
+* [Git](https://git-scm.com)
+* [GitHub](https://github.com)
+* [Vercel](https://vercel.com/)
 
 ## :rocket: **Configurações e Instalação**
 
@@ -52,16 +66,12 @@ npm run dev
 npm run build
 ```
 
-## :memo: **Licença**
+## :balance_scale: **Licença**
 
-Esse projeto está sob a licença MIT.
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
-</p>
+Esse projeto está sob a [licença MIT](https://github.com/davsilvam/link-pack/blob/main/LICENSE.md).
 
 <p align="center">
-  Feito com :purple_heart: por <a href="https://www.linkedin.com/in/davsilvam/">David Silva</a>.
+  Feito com :blue_heart: por <a href="https://www.linkedin.com/in/davsilvam/">David Silva</a>.
 </p>
 
 ---
