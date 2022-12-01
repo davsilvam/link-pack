@@ -7,7 +7,6 @@ O Link Pack é um projeto criado baseado na [Linktree](https://linktr.ee), cujo 
    <a href="https://link-pack.vercel.app">Veja o projeto completo aqui.</a>
 </p>
 
-
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
 <h1 align="center">
@@ -47,6 +46,13 @@ Tecnologias utilizadas no projeto.
 ## :rocket: **Configurações e Instalação**
 
 Veja [documentação de configuração do Vite](https://vitejs.dev/config/).
+
+
+### **Clonando o Projeto**
+
+```sh
+git clone https://github.com/davsilvam/link-pack.git
+```
 
 ### **Executando o Projeto**
 
